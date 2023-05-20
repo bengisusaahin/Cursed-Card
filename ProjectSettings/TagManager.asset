@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - GameManager
+  - Hands
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Entity
+  - Arrow
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: CardBack
+    uniqueID: 979130327
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Hand
+    uniqueID: 1483496483
+    locked: 0
+  - name: Field
+    uniqueID: 1473712755
+    locked: 0
+  - name: Arrow
+    uniqueID: 2192687549
+    locked: 0
